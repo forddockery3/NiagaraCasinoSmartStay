@@ -1,0 +1,18 @@
+{
+  "name": "Niagara Casino Smart Stay",
+  "short_name": "Smart Stay",
+  "description": "Hotel guest services: room requests, events, dining, parking, and hotel info.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f3a26",
+  "theme_color": "#0f3a26",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "5120x3307",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
